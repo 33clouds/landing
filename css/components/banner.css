@@ -17,7 +17,9 @@
 
 .banner {
   /* width: vw; */
+  display: flex;
+  height: 100vh;
   background-size: cover;
   background-position: center;
-  padding: 200px 0;
+  /* padding: 200px 0; */
 }
