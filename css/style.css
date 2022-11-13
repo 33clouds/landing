@@ -19,7 +19,7 @@ html {
 body {
   margin: 0;
   font-family: Open Sans;
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   height: 100%;
 }
