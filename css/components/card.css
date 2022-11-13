@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+  text-align: center;
+  padding: 20px;
+}
+
+.card p {
+  opacity: .5;
+}

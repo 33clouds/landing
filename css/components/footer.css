@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  background-color: #2c2b2b;
+  align-items: center;
+  flex-direction: column;
+  padding: 60px;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer .fa-solid {
+  color: #BF0F12;
+}
+
+.footer .fa-solid:hover {
+  font-size: 140%;
+  transition: ease 0.2s;
+}
+
+
+
+.footer a {
+  color: #1ED760;
+}
+
+.links {
+  font-size: 200%;
+}
+
+.links a {
+  margin: 0 2px;
+}
+
+.links a:hover {
+  color: #6B6C6C;
+  transition: ease-in-out 0.25s;
+}
